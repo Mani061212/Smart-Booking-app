@@ -81,3 +81,9 @@ Authentication and authorization for user roles.
 
 Additional features such as notifications and calendar integration.
 
+![Screenshot 2025-05-19 222626](https://github.com/user-attachments/assets/d63b8496-89b1-43bd-ae39-5da5b7ddb88c)
+![Screenshot 2025-05-19 215352](https://github.com/user-attachments/assets/2d3267d7-efc0-4162-82af-cefbbec26dae)
+![Screenshot 2025-05-19 215330](https://github.com/user-attachments/assets/17bac53d-a175-47ff-a8ae-5a4f60140c86)
+![Screenshot 2025-05-19 215251](https://github.com/user-attachments/assets/cb5b136e-90ff-46cc-905f-65b79878e02b)
+![Screenshot 2025-05-19 215240](https://github.com/user-attachments/assets/34f6671c-c2e1-40d4-834a-accc7be8d186)
+
